@@ -9,7 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>E-mail: liuzexue@gmail.com</p>
+    <p>E-mail: liuzexue@pku.edu.cn</p>
     <p>Address: No.5 Yiheyuan Road, Haidian District, Beijing 100871, P.R.China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -26,7 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, welcome to my blog! I earned both my M.E. degree and Ph.D. degree from Peking University, in 2015 and 2022, respectively. My research focuses on the design of analog and radio-frequency (RF) integrated circuits (ICs).
+Hi, welcome to my blog! 
+I earned my Ph.D. degree from Peking University in 2022. My research focuses on the design of analog/mixed signal integrated circuits.
 
 
 <!-- 
