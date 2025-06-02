@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://liuzexue.github.io/al-folio/sitemap.xml
+Sitemap: https://liuzexue.github.io/sitemap.xml
