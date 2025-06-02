@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>E-mail: liuzexue@gmail.com</p>
-    <p>Affiliations：School of Integrated Circuits, Peking University</p>
-    <p>Address: Beijing, China</p>
+    <p>Address: No.5 Yiheyuan Road, Haidian District, Beijing 100871, P.R.China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my blog.
+Hi, welcome to my blog! I earned both my M.E. degree and Ph.D. degree from Peking University, in 2015 and 2022, respectively. My research focuses on the design of analog and radio-frequency (RF) integrated circuits (ICs).
+
+
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 -->
