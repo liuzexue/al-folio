@@ -6,7 +6,7 @@ subtitle: <a href='https://ic.pku.edu.cn/'>School of Integrated Circuits, Peking
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>E-mail: liuzexue@gmail.com</p>
