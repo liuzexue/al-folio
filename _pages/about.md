@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -26,8 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, welcome to my blog! 
-I earned my Ph.D. degree from Peking University in 2022. My research focuses on the design of analog/mixed signal integrated circuits.
+Hi, welcome to my blog! I am an analog integrated circuit designer.
+I earned my Ph.D. degree from Peking University (Beijing, China) in 2022, where I majored in the design of analog/mixed signal integrated circuits.
+
 
 
 <!-- 
